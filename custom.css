@@ -1,0 +1,9 @@
+/* Hide some unnecessary buttons */
+button[title="Settings"], button[title="Share"] {
+	display: none
+}
+
+button[title="New file"], button[title="Share"] {
+	display: none
+}
+
